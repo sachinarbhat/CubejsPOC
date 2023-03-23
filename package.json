@@ -1,0 +1,17 @@
+{
+  "name": "vue-query-builder",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "cubejs-server"
+  },
+  "template": "docker",
+  "templateVersion": "0.32.7",
+  "devDependencies": {
+    "@cubejs-backend/postgres-driver": "^0.32.7",
+    "@cubejs-backend/server": "^0.32.7"
+  },
+  "dependencies": {
+    "@cubejs-backend/mssql-driver": "^0.32.2"
+  }
+}
